@@ -12,7 +12,7 @@ function Hero() {
                 <Button className="mt-8 bg-[#FF0000]">Saiba mais</Button>
             </div>
         </div>
-     );
+    );
 }
 
 export default Hero;
