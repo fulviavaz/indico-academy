@@ -2,7 +2,7 @@ import { Button } from "../ui/button";
 
 function Hero() {
     return ( 
-        <div className="h-[612px] bg-[url('/images/hero-academy.png')] bg-cover bg-center no-repeat">
+        <div className="h-[612px] bg-[url('/images/hero-academy.png')] bg-cover bg-center no-repeat bg-fixed">
             <div className="flex flex-col items-start justify-center pl-[60px] py-24 w-[985px]">
                 <h1 className="text-[64px] font-bold text-white leading-tight">Transforme o relacionamento com os clientes criando uma
                     conexão legítima</h1>

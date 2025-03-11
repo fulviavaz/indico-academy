@@ -10,7 +10,7 @@ function Modalities() {
                 <div className="h-[339px] w-[1155px] bg-[url('/images/palestra2.png')] bg-cover bg-center no-repeat transition-transform duration-300 hover:scale-105"></div>
                     </div>
                 </div>
-     );
+    );
 }
 
 export default Modalities;
