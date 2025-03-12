@@ -1,7 +1,7 @@
 const SpeakerCard = ({ image, name }) => {
   return (
     <div
-      className="relative w-[367px] h-[552px] rounded-lg bg-cover bg-center shadow-lg overflow-hidden transition-transform duration-300 hover:scale-105"
+      className="relative 2xl:w-[367px] lg:w-[367px] md:w-[367px] w-[300px] h-[552px] rounded-lg bg-cover bg-center shadow-lg overflow-hidden transition-transform duration-300 hover:scale-105"
       style={{ backgroundImage: `url(${image})` }}
     >
       {/* Gradiente escuro na parte inferior */}
