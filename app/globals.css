@@ -17,6 +17,7 @@
 }
 
 html, body {
+  background-color: black;
   height: 100%;
   font-family: 'Inter', sans-serif;
   -webkit-font-smoothing: antialiased;
