@@ -5,6 +5,7 @@ import Nav from "../components/nav/nav";
 import Speakers from "@/components/speakers/speakers";
 import Subjects from "@/components/subjects/subjects";
 import Modalities from "@/components/modalities/modalities";
+import Form from "@/components/form/form";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <Speakers />
       <Subjects />
       <Modalities />
+      <Form />
   </main>
   );
 }
