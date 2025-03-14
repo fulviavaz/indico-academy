@@ -6,9 +6,11 @@ import Speakers from "@/components/speakers/speakers";
 import Subjects from "@/components/subjects/subjects";
 import Modalities from "@/components/modalities/modalities";
 import Form from "@/components/form/form";
+import Footer from "@/components/footer/footer";
 
 export default function Home() {
   return (
+    <>
     <main className="max-w-[1280px] mx-auto items-center justify-center">
       <Nav />
       <Hero />
@@ -16,6 +18,8 @@ export default function Home() {
       <Subjects />
       <Modalities />
       <Form />
-  </main>
+    </main>
+      <Footer />
+      </>
   );
 }
