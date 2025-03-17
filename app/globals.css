@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+@import "@fontsource/oswald";
+@import "@fontsource/inter";
+
+
 /* @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
@@ -19,7 +23,7 @@
 html, body {
   background-color: black;
   height: 100%;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter','Oswald', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

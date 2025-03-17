@@ -1,4 +1,7 @@
 /** @type {import('tailwindcss').Config} */
+
+import { fontFamily } from "tailwindcss/defaultTheme";
+
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
   darkMode: ["class"],
@@ -9,6 +12,10 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        display: ["Oswald", ...fontFamily.sans],
+        body: ["Inter", ...fontFamily.sans],
+      },
       colors: {
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
