@@ -20,14 +20,20 @@ function Form() {
                 <div className="w-full h-[1px] bg-[#FF1234]"></div>
                 <p className="text-[24px] text-white font-body mt-6">Sed diam consectetur non non Morbi massa Praesent ex Ut nec ex.
                     vitae Ut Vestibulum</p>
-            </div>
-            <div className="flex flex-col items-center mt-10">
+        </div>
+        <div className="flex justify-center items-center gap-10 mt-10">
+      <div className="bg-[url('/images/tel.jpg')] bg-cover bg-bottom no-repeat w-[500px] h-[430px] p-10 rounded-lg">
+                        
+                    </div>
 
+            <div className="flex flex-col items-center mt-10">
               <iframe
         src="/form.html"
         className="w-[500px] h-[300px] border-none"
       />
-            </div>            
+          </div> 
+          
+          </div>
                     
                 </div>
     );
