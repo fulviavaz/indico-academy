@@ -8,6 +8,7 @@ import Modalities from "@/components/modalities/modalities";
 import Form from "@/components/form/form";
 import Footer from "@/components/footer/footer";
 import About from "@/components/about/about";
+import Award from "@/components/award/award";
 
 export default function Home() {
   return (
@@ -18,7 +19,8 @@ export default function Home() {
         <About />
       <Speakers />
       <Subjects />
-      <Modalities />
+        <Modalities />
+        <Award />
       <Form />
     </main>
       <Footer />
