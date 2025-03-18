@@ -16,6 +16,9 @@ export default {
         display: ["Oswald", ...fontFamily.sans],
         body: ["Inter", ...fontFamily.sans],
       },
+      animation: {
+        "fade-in": "fade-in 1s ease-out forwards",
+      },
       colors: {
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",

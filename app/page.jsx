@@ -9,6 +9,7 @@ import Form from "@/components/form/form";
 import Footer from "@/components/footer/footer";
 import About from "@/components/about/about";
 import Award from "@/components/award/award";
+import Contact from "@/components/contact/contact";
 
 export default function Home() {
   return (
@@ -21,7 +22,8 @@ export default function Home() {
       <Subjects />
         <Modalities />
         <Award />
-      <Form />
+        <Form />
+        <Contact/>
     </main>
       <Footer />
       </>
