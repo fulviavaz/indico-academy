@@ -36,8 +36,25 @@ function Award() {
                     </div>
 </div>
             </div>
-                    
+
+            <div className=" mt-16 w-full 2xl:h-[394px] lg:h-[450px] md:h-[450px] h-[450px] bg-[url('/images/motiva.png')] bg-cover bg-center no-repeat bg-fixed">
+            <div className="flex flex-col items-center justify-center pt-4  lg:w-full md:w-full w-full">
+                                        
+                <p className="mt-8 2xl:text-[34px] text-[18px] text-white 2xl:w-[800px] lg:w-full md:w-full w-full font-body text-center font-bold">
+                    UMA OPORTUNIDADE IMPERDÍVEL
+DE TRANSFORMAR A MANEIRA COMO VOCÊ
+SE CONECTA COM SEUS CLIENTES.<br/><br/>
+
+NÃO PERCA A CHANCE DE APRENDER COM
+QUEM ENTENDE DO ASSUNTO!
+
+                        </p>
+                        
+                    </div>
                 </div>
+                    
+        </div>
+        
     );
 }
 
