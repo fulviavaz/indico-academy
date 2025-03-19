@@ -2,7 +2,7 @@ import Image from "next/image";
 
 function Footer() {
     return ( 
-        <footer className="flex flex-col items-center justify-center w-full  py-10 gap-10 bg-[#FF0000]">
+        <footer className="flex flex-col items-center justify-center w-full  py-10 gap-10 bg-[#FF1234]">
             <Image
                   src="/images/logo-branco.png"
                   width={200}
