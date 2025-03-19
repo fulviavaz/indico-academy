@@ -9,29 +9,29 @@ function Award() {
             </div>
             <div className="mt-10 flex items-center justify-center gap-6 flex-wrap">
 
-                <div className="relative w-[367px] h-[412px] rounded-lg overflow-hidden  transition-transform duration-300 hover:scale-105">
+                <div className="relative 2xl:w-[367px] xl:w-[367px] lg:w-[367px] md:w-[367px] w-[300px] h-[412px] rounded-lg overflow-hidden  transition-transform duration-300 hover:scale-105">
   <div className="absolute inset-0 bg-black opacity-50"></div>
-                    <div className="bg-[url('/images/aw1.jpg')] bg-cover bg-center no-repeat w-full h-full p-10">
+                    <div className="bg-[url('/images/aw1.jpg')] bg-cover bg-center no-repeat w-full h-full 2xl:p-10 xl:p-10 lg:p-10 md:p-10 p-5">
                         <p className="font-body text-white text-[20px] font-bold absolute">Maior Engajamento<br /> e Retenção de Clientes</p>
-                        <p className="font-body text-white text-[18px] font-normal absolute mt-28 w-[274px]">Ajudamos sua equipe a entender o que realmente importa para os seus clientes,
+                        <p className="font-body text-white text-[18px] font-normal absolute mt-28 2xl:w-[274px] xl:w-[274px] lg:w-[274px] md:w-[274px] w-[90%]">Ajudamos sua equipe a entender o que realmente importa para os seus clientes,
                             proporcionando soluções práticas e estratégias que irão aumentar a fidelização e o valor dos seus clientes ao longo do tempo.</p>
                     </div>
                 </div>
                 
-                    <div className="relative w-[367px] h-[412px] rounded-lg overflow-hidden  transition-transform duration-300 hover:scale-105">
+                    <div className="relative 2xl:w-[367px] xl:w-[367px] lg:w-[367px] md:w-[367px] w-[300px] h-[412px] rounded-lg overflow-hidden  transition-transform duration-300 hover:scale-105">
   <div className="absolute inset-0 bg-black opacity-50"></div>
-                    <div className="bg-[url('/images/aw2.jpg')] bg-cover bg-center no-repeat w-full h-full p-10">
+                    <div className="bg-[url('/images/aw2.jpg')] bg-cover bg-center no-repeat w-full h-full 2xl:p-10 xl:p-10 lg:p-10 md:p-10 p-5">
                         <p className="font-body text-white text-[20px] font-bold absolute">Capacitação Profunda</p>
-                        <p className="font-body text-white text-[18px] font-normal absolute mt-28 w-[274px]">‍‍Você não só vai apresentar conceitos para sua equipe, mas também estimulará a ação,
+                        <p className="font-body text-white text-[18px] font-normal absolute mt-28 2xl:w-[274px] xl:w-[274px] lg:w-[274px] md:w-[274px] w-[90%]">‍‍Você não só vai apresentar conceitos para sua equipe, mas também estimulará a ação,
                             incentivando a implementação imediata de soluções no contexto específico de sua empresa.</p>
                     </div>
                 </div>
                 
-                    <div className="relative w-[367px] h-[412px] rounded-lg overflow-hidden  transition-transform duration-300 hover:scale-105">
+                    <div className="relative 2xl:w-[367px] xl:w-[367px] lg:w-[367px] md:w-[367px] w-[300px] h-[412px] rounded-lg overflow-hidden  transition-transform duration-300 hover:scale-105">
   <div className="absolute inset-0 bg-black opacity-50"></div>
-                    <div className="bg-[url('/images/aw3.jpg')] bg-cover bg-center no-repeat w-full h-full p-10">
+                    <div className="bg-[url('/images/aw3.jpg')] bg-cover bg-center no-repeat w-full h-full 2xl:p-10 xl:p-10 lg:p-10 md:p-10 p-5">
                         <p className="font-body text-white text-[20px] font-bold absolute">Resultados Tangíveis</p>
-                        <p className="font-body text-white text-[18px] font-normal absolute mt-28 w-[274px]">Com nossa metodologia prática, as palestras e workshops não são
+                        <p className="font-body text-white text-[18px] font-normal absolute mt-28 2xl:w-[274px] xl:w-[274px] lg:w-[274px] md:w-[274px] w-[80%]">Com nossa metodologia prática, as palestras e workshops não são
                             apenas momentos de aprendizado, mas de transformação. Seus projetos vão avançar, e os resultados vão aparecer.</p>
                     </div>
 </div>
@@ -40,7 +40,7 @@ function Award() {
             <div className=" mt-16 w-full 2xl:h-[394px] xl:h-[394px] lg:h-[394px] md:h-[394px] h-[394px] bg-[url('/images/award.jpg')] bg-cover bg-center no-repeat bg-fixed flex items-center">
             <div className="flex flex-col items-center justify-center lg:w-full md:w-full w-full">
                                         
-                <p className="mt-8 2xl:text-[34px] xl:text-[34px] lg:text-[34px] md:text-[28px] text-[28px] text-white 2xl:w-[800px] xl:w-[800px] lg:w-[800px] md:w-[700px] w-[90%] font-body text-center font-bold">
+                <p className="mt-8 2xl:text-[34px] xl:text-[34px] lg:text-[34px] md:text-[28px] text-[20px] text-white 2xl:w-[800px] xl:w-[800px] lg:w-[800px] md:w-[700px] w-[90%] font-body text-center font-bold">
                     UMA OPORTUNIDADE IMPERDÍVEL
 DE TRANSFORMAR A MANEIRA COMO VOCÊ
 SE CONECTA COM SEUS CLIENTES.<br/><br/>

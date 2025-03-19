@@ -22,14 +22,14 @@ function Form() {
                     vitae Ut Vestibulum</p>
         </div>
         <div className="flex justify-center items-center gap-10 mt-10 flex-wrap">
-      <div className="bg-[url('/images/tel.jpg')] bg-cover bg-bottom no-repeat w-[500px] h-[430px] p-10 rounded-lg">
+      <div className="bg-[url('/images/tel.jpg')] bg-cover bg-bottom no-repeat 2xl:w-[500px] xl:w-[500px] lg:w-[500px] md:w-[500px] w-[300px] h-[430px] p-10 rounded-lg">
                         
                     </div>
 
             <div className="flex flex-col items-center mt-10">
               <iframe
         src="/form.html"
-        className="w-[500px] h-[300px] border-none"
+        className="2xl:w-[500px] xl:w-[500px] lg:w-[500px] md:w-[500px] w-[300px] h-[300px] border-none"
       />
           </div> 
           
