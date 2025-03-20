@@ -1,3 +1,4 @@
+import Link from "next/link";
 import SpeakerCard from "../speaker-card/speaker-card";
 
 function Speakers() {
@@ -9,9 +10,9 @@ function Speakers() {
                 <p className="w-ful 2xl:text-[24px] xl:text-[24px] lg:text-[24px] md:text-[24px] text-[18px] text-white font-body mt-6">Conheça mais sobre nossos palestrantes:</p>
                     </div>
                     <div className="mt-10 flex gap-6 justify-center items-center flex-wrap">
-                        <SpeakerCard image="/images/ranoya.png" name="Christiano Ranoya" />
-                <SpeakerCard image="/images/andre.jpg" name="André Veloso" />
-                <SpeakerCard image="/images/paulo.jpg" name="Paulo Raimo" />
+                        <Link href="https://www.linkedin.com/in/ranoya/" target="_blank"><SpeakerCard image="/images/ranoya.png" name="Christiano Ranoya" /></Link>
+                <Link href="https://www.linkedin.com/in/acrveloso/" target="_blank"><SpeakerCard image="/images/andre.jpg" name="André Veloso" /></Link>
+                <Link href="https://www.linkedin.com/in/raimopaulo/" target="_blank"><SpeakerCard image="/images/paulo.jpg" name="Paulo Raimo" /></Link>
                     </div>
                 </div>
         
