@@ -17,8 +17,9 @@ function Hero() {
                 <p className="2xl:text-[34px] xl:text-[44px] lg:text-[44px] md:text-[18px] text-[18px] text-white font-body mb-2 2xl:w-full xl:w-full lg:w-full md:w-full w-[90%]">Porque o cliente não tem sempre a razão, <span className="bg-[#FF1234]">ele é a razão.</span></p>
             <div className=" h-[1px] bg-[#FF1234] 2xl:w-[1000px] xl:w-[1000px] lg:w-[900px] md:w-[700px] w-[90%]"></div>
                 <p className="2xl:mt-14 xl:mt-14 lg:mt-14 md:mt-10 mt-5 2xl:text-[24px] xl:text-[24px] lg:text-[24px] md:text-[18px] text-[18px] text-white 2xl:w-[1000px] xl:w-[1000px] lg:w-[900px] md:w-[700px] w-[90%] font-body">
-                    Transforme o relacionamento com os seus clientes criando uma conexão legítima.
-Com palestras e workshops práticos, a Indico Academy prepara sua empresa para construir um relacionamento mais profundo e duradouro com seus consumidores.
+                    Transforme o relacionamento com os seus clientes criando uma conexão legítima. Com palestras e workshops práticos,
+                    a Indico Academy prepara sua empresa para construir uma relação mais profunda e duradoura com seus consumidores.
+
                 </p>
                 <Button className="mt-8 bg-[#FF1234] font-body 2xl:text-lg xl:text-lg lg:text-lg md:text-base text-base">Saiba mais</Button>
             </div>

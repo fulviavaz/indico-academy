@@ -12,8 +12,9 @@ function Award() {
   <div className="absolute inset-0 bg-black opacity-50"></div>
                     <div className="bg-[url('/images/aw1.jpg')] bg-cover bg-center no-repeat w-full h-full 2xl:p-10 xl:p-10 lg:p-10 md:p-10 p-5">
                         <p className="font-body text-white text-[20px] font-bold absolute">Maior Engajamento<br /> e Retenção de Clientes</p>
-                        <p className="font-body text-white text-[18px] font-normal absolute mt-28 2xl:w-[274px] xl:w-[274px] lg:w-[274px] md:w-[274px] w-[90%]">Ajudamos sua equipe a entender o que realmente importa para os seus clientes,
-                            proporcionando soluções práticas e estratégias que irão aumentar a fidelização e o valor dos seus clientes ao longo do tempo.</p>
+                        <p className="font-body text-white text-[18px] font-normal absolute mt-28 2xl:w-[274px] xl:w-[274px] lg:w-[274px] md:w-[274px] w-[90%]">
+                            Ajudamos sua equipe a entender o que realmente importa para os seus consumidores, proporcionando soluções práticas e estratégias que irão aumentar a fidelização e o valor dos seus clientes ao longo do tempo.
+                        </p>
                     </div>
                 </div>
                 
