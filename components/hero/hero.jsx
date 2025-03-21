@@ -22,7 +22,7 @@ function Hero() {
                     a Indico Academy prepara sua empresa para construir uma relação mais profunda e duradoura com seus consumidores.
 
                 </p>
-                <Link href="https://storage.googleapis.com/indico_repository/poedameron01/Indico%20Academy/Indico%20Academy%20V2.pdf" target="_blank"><Button className="mt-8 bg-[#FF1234] font-body 2xl:text-lg xl:text-lg lg:text-lg md:text-base text-base">Saiba mais</Button></Link>
+                <Link href="https://storage.googleapis.com/indico_repository/poedameron01/Indico%20Academy/Indico%20Academy%202025%20atualizado.pdf" target="_blank"><Button className="mt-8 bg-[#FF1234] font-body 2xl:text-lg xl:text-lg lg:text-lg md:text-base text-base">Saiba mais</Button></Link>
             </div>
         </div>
     );
