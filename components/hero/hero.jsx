@@ -8,7 +8,7 @@ function Hero() {
             <div className="flex flex-col items-start justify-center 2xl:pl-[60px] lg:pl-[60px] md:pl-[30px] pl-[30px] 2xl:w-[985px] lg:w-full md:w-full w-full">
                 <h1 className="2xl:text-[64px] lg:text-[64px] md:text-[45px] text-[40px] font-normal text-white font-display">
                     PALESTRAS & WORKSHOPS</h1>
-                {/* <Image 
+                {/* <Image '
                     src="/images/logo.png" 
                     width={1000} 
                     height={500} 
