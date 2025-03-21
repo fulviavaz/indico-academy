@@ -7,7 +7,7 @@ function Hero() {
         <div className="w-full 2xl:h-[612px] xl:h-[612px] lg:h-[612px] md:h-[450px] h-[450px] bg-[url('/images/hero.jpg')] bg-cover bg-center no-repeat bg-fixed flex items-center">
             <div className="flex flex-col items-start justify-center 2xl:pl-[60px] lg:pl-[60px] md:pl-[30px] pl-[30px] 2xl:w-[985px] lg:w-full md:w-full w-full">
                 <h1 className="2xl:text-[64px] lg:text-[64px] md:text-[45px] text-[40px] font-normal text-white font-display">
-                    Palestras & Workshops</h1>
+                    PALESTRAS & WORKSHOPS</h1>
                 {/* <Image 
                     src="/images/logo.png" 
                     width={1000} 
