@@ -11,8 +11,8 @@ function About() {
             <div className="flex flex-col items-start justify-center 2xl:pl-[60px] lg:pl-[60px] md:pl-[30px] pl-[30px] lg:w-full md:w-full w-full">
                 <h2 className="2xl:text-[64px] xl:text-[64px] lg:text-[64px] md:text-[45px] text-[35px] font-normal text-white font-display">
                     O QUE NOS MOTIVA?</h2>
-                        <div className="2xl:w-[1000px] xl:w-[1000px] lg:w-[900px] md:w-[700px] w-[90%] h-[1px] bg-[#FF1234]"></div>
-                <p className="mt-8 2xl:text-[24px] xl:text-[24px] lg:text-[24px] md:text-[24px] text-[18px] text-white 2xl:w-[583px] xl:w-[583px] lg:w-[583px] md:w-[583px] w-[90%] font-body">
+                        <div className="2xl:w-[1150px] xl:w-[1150px] lg:w-[900px] md:w-[700px] w-[90%] h-[1px] bg-[#FF1234]"></div>
+                <p className="mt-8 2xl:text-[24px] xl:text-[24px] lg:text-[24px] md:text-[24px] text-[18px] text-white 2xl:w-full xl:w-full lg:w-full md:w-full w-[90%] font-body">
                     Acreditamos que o verdadeiro relacionamento se baseia no entendimento profundo das necessidades e desejos dos consumidores,
                     na criação de conexões significativas e na oferta de experiências enriquecedoras para as empresas.
                         </p>                        

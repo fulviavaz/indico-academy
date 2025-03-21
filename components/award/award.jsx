@@ -40,10 +40,10 @@ function Award() {
             <div className=" mt-16 w-full 2xl:h-[394px] xl:h-[394px] lg:h-[394px] md:h-[394px] h-[394px] bg-[url('/images/award.jpg')] bg-cover bg-center no-repeat bg-fixed flex items-center">
             <div className="flex flex-col items-center justify-center lg:w-full md:w-full w-full">
                                         
-                <p className="mt-8 2xl:text-[34px] xl:text-[34px] lg:text-[34px] md:text-[28px] text-[20px] text-white 2xl:w-[800px] xl:w-[800px] lg:w-[800px] md:w-[700px] w-[90%] font-body text-center font-bold">
+                <p className="2xl:text-[34px] xl:text-[34px] lg:text-[34px] md:text-[28px] text-[20px] text-white 2xl:w-[800px] xl:w-[800px] lg:w-[800px] md:w-[700px] w-[90%] font-body text-center font-bold">
                     UMA OPORTUNIDADE IMPERDÍVEL
 DE TRANSFORMAR A MANEIRA COMO VOCÊ
-SE CONECTA COM SEUS CLIENTES.<br/><br/>
+SE CONECTA COM SEUS CLIENTES.<br/>
 
 NÃO PERCA A CHANCE DE APRENDER COM
 QUEM ENTENDE DO ASSUNTO!
