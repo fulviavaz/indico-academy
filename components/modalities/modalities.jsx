@@ -15,7 +15,7 @@ function Modalities() {
   <div className="absolute inset-0 bg-black opacity-50"></div>
                     <div className="bg-[url('/images/palestra1.png')] bg-cover bg-center no-repeat w-full h-full 2xl:p-10 xl:p-10 lg:p-10 md:p-10 p-5">
                         <p className="font-display text-white text-[24px] font-bold absolute">PALESTRAS</p>
-                        <p className="font-body text-white text-[18px] font-normal absolute mt-20 2xl:w-full xl:w-[350px] lg:w-[350px] md:w-[350px] w-[90%]">
+                        <p className="font-body text-white text-[18px] font-normal absolute mt-20 2xl:w-full xl:w-full lg:w-full md:w-full w-[90%]">
                         O foco das palestras é oferecer um conteúdo impactante e inspirador, transmitindo
 conhecimento de forma clara e objetiva, para provocar reflexões e despertar o interesse por novas abordagens no relacionamento com clientes.
 
@@ -27,7 +27,7 @@ conhecimento de forma clara e objetiva, para provocar reflexões e despertar o i
   <div className="absolute inset-0 bg-black opacity-50"></div>
                     <div className="bg-[url('/images/palestra2.jpg')] bg-cover bg-center no-repeat w-full h-full 2xl:p-10 xl:p-10 lg:p-10 md:p-10 p-5">
                         <p className="font-display text-white text-[24px] font-bold absolute">WORKSHOPS</p>
-                        <p className="font-body text-white text-[18px] font-normal absolute mt-14 2xl:w-[350px] xl:w-[350px] lg:w-[350px] md:w-[350px] w-[90%]">
+                        <p className="font-body text-white text-[18px] font-normal absolute mt-14 2xl:w-full xl:w-full lg:w-full md:w-full w-[90%]">
                             Os workshops são desenhados para proporcionar uma experiência prática e colaborativa, permitindo que os participantes apliquem conceitos e trabalhem em soluções reais para seus desafios de mercado.
 
 
