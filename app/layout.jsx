@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Inico Academy",
+  title: "Indico Academy",
   description: "Palestras e Workshops",
 };
 
